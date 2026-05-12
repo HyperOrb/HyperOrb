@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A66C2,50:7F52FF,100:00C2A8&text=Ryann%20Chandiari&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Android%20%7C%20Web%20%7C%20Games%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn" alt="Ryann Chandiari profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A66C2,50:7F52FF,100:00C2A8&text=Ryann%20Chandiari&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Mobile%20%7C%20Web%20%7C%20Games%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn" alt="Ryann Chandiari profile banner" />
 
 <div align="center">
 
 <a href="https://ryann-portofolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Computer+Science+student+from+Indonesia;Building+Android+apps+with+Kotlin+and+Compose;Designing+web+experiences+that+feel+alive;Exploring+games%2C+NLP%2C+and+machine+learning" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Computer+Science+student+from+Indonesia;Building+mobile+apps+with+thoughtful+product+flows;Designing+web+experiences+that+feel+alive;Exploring+games%2C+NLP%2C+and+machine+learning" alt="Typing introduction" />
 </a>
 
 <br />
@@ -20,7 +20,7 @@
 
 ## What I Build
 
-I turn ideas into working products across mobile, web, games, and data. My favorite projects sit where good engineering meets a clear user experience: Android apps with useful flows, interactive websites with personality, Unity systems with clean architecture, and ML projects that explain their decisions.
+I turn ideas into working products across mobile, web, games, and data. My favorite projects sit where good engineering meets a clear user experience: mobile apps with useful flows, interactive websites with personality, Unity systems with clean architecture, and ML projects that explain their decisions.
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ I turn ideas into working products across mobile, web, games, and data. My favor
     </td>
     <td width="50%">
       <h3><a href="https://ryann-portofolio.vercel.app/tamanbaca.html">Pojok Baca</a></h3>
-      <p><strong>Lead Android Developer / ML Engineer</strong></p>
+      <p><strong>Lead Mobile Developer / ML Engineer</strong></p>
       <p>Digital library app with book borrowing, role-based access, Firebase data, barcode support, and real-time sentiment feedback.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -105,7 +105,7 @@ I turn ideas into working products across mobile, web, games, and data. My favor
 ## Current Focus
 
 ```text
-Android architecture       Compose UI, state, Firebase, clean feature flows
+Mobile architecture        Compose UI, state, Firebase, clean feature flows
 Interactive web            Portfolio-quality pages, API-driven experiences
 Machine learning           NLP, model evaluation, interpretability, data quality
 Game development           Unity systems, modular mechanics, polished gameplay loops
