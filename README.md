@@ -111,18 +111,29 @@ Machine learning           NLP, model evaluation, interpretability, data quality
 Game development           Unity systems, modular mechanics, polished gameplay loops
 ```
 
-## GitHub Signal
+## Build Highlights
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>96.22%</h3>
+      <p>SVM sentiment model accuracy on Indonesian product reviews</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>4 domains</h3>
+      <p>Mobile, web, game development, and machine learning</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Firebase</h3>
+      <p>Real-time mobile app data, auth flows, and user feedback</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Unity</h3>
+      <p>Modular gameplay systems for a roguelike deckbuilder</p>
+    </td>
+  </tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HyperOrb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ryann's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperOrb&layout=compact&theme=tokyonight&hide_border=true" alt="Ryann's most used languages" />
-
-<br />
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=HyperOrb&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-
-</div>
 
 ## Connect
 
