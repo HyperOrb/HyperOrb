@@ -20,27 +20,27 @@
 
 ## What I Build
 
-I turn ideas into working products across mobile, web, games, and data. My favorite projects sit where good engineering meets a clear user experience: mobile apps with useful flows, interactive websites with personality, Unity systems with clean architecture, and ML projects that explain their decisions.
+I turn ideas into working products across macOS/mobile apps, web, games, and data. My favorite projects sit where good engineering meets a clear user experience: native applications with useful flows, interactive websites with personality, Unity systems with clean architecture, and AI/ML projects that solve real problems.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Mobile apps</h3>
-      <p>Kotlin, Jetpack Compose, Firebase, app architecture, real-time UI, and practical product flows.</p>
+      <h3>App Development</h3>
+      <p>Swift, macOS, Kotlin, Jetpack Compose, Firebase, app architecture, and real-time integrations.</p>
     </td>
     <td width="50%">
-      <h3>Machine learning</h3>
-      <p>NLP, sentiment analysis, SVM, TF-IDF, model evaluation, feature engineering, and explainable outputs.</p>
+      <h3>AI & Machine Learning</h3>
+      <p>Agentic AI, LLM integrations, NLP, sentiment analysis, model evaluation, and explainable outputs.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Web experiences</h3>
-      <p>Portfolio sites, interactive project pages, API integration, React/Vite, TypeScript, HTML, CSS, and deployment.</p>
+      <p>Portfolio sites, interactive pages, API integration, React/Vite, Tailwind, TypeScript, and HTML/CSS.</p>
     </td>
     <td width="50%">
       <h3>Game systems</h3>
-      <p>Unity, C#, gameplay loops, deckbuilder mechanics, tower defense systems, modular card effects, and team leadership.</p>
+      <p>Unity, C#, gameplay loops, deckbuilder mechanics, tower defense systems, and modular card effects.</p>
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ I turn ideas into working products across mobile, web, games, and data. My favor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,swift,ts,js,react,next,html,css,python,sklearn,unity,cs,vercel,git,github&perline=9" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio,firebase,ts,js,react,tailwind,vite,html,css,python,sklearn,unity,cs,vercel,git,github&perline=9" alt="Technology icons" />
 
 </div>
 
@@ -58,17 +58,17 @@ I turn ideas into working products across mobile, web, games, and data. My favor
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://ryann-portofolio.vercel.app/beautyofbali.html">Beauty of Bali</a></h3>
-      <p><strong>Backend Development and API Integration</strong></p>
-      <p>Interactive cultural website for exploring Balinese museums, beaches, and food, built as a collaborative second-semester final project.</p>
+      <h3><a href="https://github.com/HyperOrb/Nest">Nest</a></h3>
+      <p><strong>Finder-Native AI Agent / macOS</strong></p>
+      <p>A native macOS AI companion docking inside Finder. Uses local shell commands, natural language parsing, and BYOK AI to instantly transform, organize, and inspect files.</p>
       <p>
-        <img src="https://img.shields.io/badge/API%20Integration-0A66C2?style=flat-square" alt="API Integration" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-0088cc?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://ryann-portofolio.vercel.app/tokopedia.html">Tokopedia Sentiment Analysis SVM</a></h3>
+      <h3><a href="https://ryann-portofolio.vercel.app/tokopedia.html">Tokopedia Sentiment Analysis</a></h3>
       <p><strong>Data Scientist / ML Engineer</strong></p>
       <p>Indonesian product review classifier using SVM, TF-IDF, augmentation, custom features, and explainable coefficient analysis.</p>
       <p>
@@ -80,16 +80,6 @@ I turn ideas into working products across mobile, web, games, and data. My favor
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://ryann-portofolio.vercel.app/cardcast.html">Card Cast!</a></h3>
-      <p><strong>Developer Lead / Systems Architecture / Unity</strong></p>
-      <p>3D tower defense roguelike deckbuilder with wave combat, spell cards, shop progression, modular effects, and team-led delivery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Game%20Systems-7F52FF?style=flat-square" alt="Game systems" />
-      </p>
-    </td>
-    <td width="50%">
       <h3><a href="https://ryann-portofolio.vercel.app/tamanbaca.html">Pojok Baca</a></h3>
       <p><strong>Lead Mobile Developer / ML Engineer</strong></p>
       <p>Digital library app with book borrowing, role-based access, Firebase data, barcode support, and real-time sentiment feedback.</p>
@@ -99,16 +89,26 @@ I turn ideas into working products across mobile, web, games, and data. My favor
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" />
       </p>
     </td>
+    <td width="50%">
+      <h3><a href="https://ryann-portofolio.vercel.app/cardcast.html">Card Cast!</a></h3>
+      <p><strong>Developer Lead / Systems Architecture / Unity</strong></p>
+      <p>3D tower defense roguelike deckbuilder with wave combat, spell cards, shop progression, modular effects, and team-led delivery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Game%20Systems-7F52FF?style=flat-square" alt="Game systems" />
+      </p>
+    </td>
   </tr>
 </table>
 
 ## Current Focus
 
 ```text
-Mobile architecture        Compose UI, state, Firebase, clean feature flows
-Interactive web            Portfolio-quality pages, API-driven experiences
+Agentic AI                 LLM integrations, prompt engineering, agentic workflows
+App Development            Native macOS tools (Swift), clean feature flows
+Interactive web            Portfolio-quality pages, modern frameworks (React/Vite)
 Machine learning           NLP, model evaluation, interpretability, data quality
-Game development           Unity systems, modular mechanics, polished gameplay loops
 ```
 
 ## Build Highlights
@@ -116,20 +116,20 @@ Game development           Unity systems, modular mechanics, polished gameplay l
 <table>
   <tr>
     <td align="center" width="25%">
+      <h3>Nest AI</h3>
+      <p>Built a native macOS AI agent blending shell scripting with LLMs</p>
+    </td>
+    <td align="center" width="25%">
       <h3>96.22%</h3>
       <p>SVM sentiment model accuracy on Indonesian product reviews</p>
     </td>
     <td align="center" width="25%">
       <h3>4 domains</h3>
-      <p>Mobile, web, game development, and machine learning</p>
+      <p>AI/macOS, mobile, web, and game development</p>
     </td>
     <td align="center" width="25%">
       <h3>Firebase</h3>
-      <p>Real-time mobile app data, auth flows, and user feedback</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Unity</h3>
-      <p>Modular gameplay systems for a roguelike deckbuilder</p>
+      <p>Real-time app data, auth flows, and secure role-based access</p>
     </td>
   </tr>
 </table>
